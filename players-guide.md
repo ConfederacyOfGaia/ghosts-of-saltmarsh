@@ -79,27 +79,39 @@ All PCs will be residents of Saltmarsh.  Saltmarshans grow up on the sea, and th
 
 </div>
 
+### General Hints
+
+* The core adventures are investigation and interaction heavy.
+* Stealthy skill-monkeys will fare best in the core games.
+* Clanking tanks and murder hobos will have a hard time.
+
+
 ### Races
 
 The following races are common in Saltmarsh, and can be used as PC races.  They are ranked from most to least common.
 
 * Human
+  * Standard only
 * Halfling
-  * Lightfoot
-  * Stout
+  * Lightfoots are most common.
+  * Stouts are rare.
 * Half-elf
   * Standard
-  * Wood elf (SCAG)
-  * High elf (SCAG)
+  * Half wood elf (SCAG)
+  * Half high elf (SCAG)
 * Dwarf
-  * You're part of the contingent of dwarven miners have been sent to Saltmarsh by King Skotti.
+  * You're part of the contingent of dwarven miners have been sent to Saltmarsh by King Skotti. Dwarves are not native to this area.
   * Subraces: hill and mountain
 * Elf
-  * The Silverstand to the east is home to a nation of wood elves. They trade with Saltmarsh but rarely make their homes here.
-  * An occasional high elf arrives in Saltmarsh via ship, but very few of them stay.
-* There are only 2 tieflings in Saltmarsh; if you want to play a tiefling, you will be with them. Talk to me.
-* Any race or subrace not mentioned above are unknown.
+  * The Silverstand is home to a nation of wood elves. They trade with Saltmarsh but rarely make their homes here.
+  * An occasional high elf arrives in Saltmarsh via ship, but very few of them stay. A high elf PC will need a story of how they arrived in Saltmarsh.
+* Half-orc
+  * Orcs are known to live on the far side of the swamps but generally keep to themselves.
+* There are only 2 tieflings in Saltmarsh, and they are native to the Free City of Greyhawk, not Saltmarsh. If you want to play a tiefling, you will be with them.
+* Any races or subraces not mentioned above are unknown.
 
+```
+```
 
 ### Languages
 
@@ -112,9 +124,6 @@ Only a few languages are available to be learned. Because of this, if a backgrou
 * Orcish
 * Giant
 * Deep Speech
-
-```
-```
 
 ### Subclasses
 
@@ -147,7 +156,7 @@ The following additional subclass are available:
 
 ## Backgrounds and Feats
 
-Choose your background from one of the following options.  If you want a different background talk to me.  Your background includes a 1st level feat, selected from the list for each background.  You must meet all the normal requirements for choosing a feat.
+Choose your background from one of the following options.  If you want a different background, talk to me.  Your background includes a 1st level feat, selected from the list for each background.  You must meet all the normal requirements for choosing a feat.
 
 ### Acolyte
 
@@ -206,7 +215,7 @@ ___
 - **Skill Proficiencies:** Deception, Insight
 - **Tool Proficiencies:** One gaming set
 - **Languages:** Any one of your choice 
-- **Feats:** One of Actor, Alert, Keen Mind, Observant
+- **Feats:** One of Actor, Alert, Observant
 - **Background Feature:** Gambler
 - **Background Characteristics:** Gambler
 - **Equipment:** One gaming set, a lucky charm, a set of fine clothes, and a belt pouch containing 15 gp
@@ -214,7 +223,7 @@ ___
 ### Marine
 
 ___
-- **Skill Proficiencies:** Choose 2 of Athletics, Intimidation, Survival
+- **Skill Proficiencies:** Any two of Acrobatics, Athletics, Intimidation, Survival
 - **Tool Proficiencies:** Vehicles (land), Vehicles (water)
 - **Feats:** One of Athlete, Grappler, Lightly Armored, Martial Adept
 - **Background Feature:** Marine
@@ -296,6 +305,16 @@ ___
 - **Background Characteristics:** Smuggler
 - **Equipment:** A fancy leather vest or a pair of leather boots, a set of common clothes, and a leather pouch with 15 gp
 
+### Soldier
+
+___
+- **Skill Proficiencies:** Any two of Athletics, Intimidation, Survival
+- **Tool Proficiencies:** One type of gaming set, vehicles (land)
+- **Feats:** One of Athlete, Grappler, Lightly Armored, Martial Adept
+- **Background Feature:** Soldier
+- **Background Characteristics:** Soldier
+- **Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a gaming set with which you're proficient, a set of common clothes, and a pouch containing 10 gp
+
 ### Town Watch
 
 ___
@@ -304,7 +323,7 @@ ___
 - **Feats:** One of Alert, Observant, Resilient
 - **Background Feature:** City Watch / Investigator
 - **Background Characteristics:** City Watch / Investigator
-- **Equipment:** A uniform in the style of your unit and indicative of your rank, a horn with which to summon help, a set of manacles, and a pouch containing 10 gp
+- **Equipment:** A Saltmarsh guard uniform, a set of manacles, and a pouch containing 10 gp
 
 ### Urchin
 
@@ -316,22 +335,12 @@ ___
 - **Background Characteristics:** Urchin
 - **Equipment:** A small knife, a map of the Saltmarsh, a set of common clothes, and a pouch containing 10 gp
 
-### Veteran
-
-___
-- **Skill Proficiencies:** Any two of Athletics, Intimidation, Survival
-- **Tool Proficiencies:** One type of gaming set, vehicles (land)
-- **Feats:** One of Athlete, Grappler, Lightly Armored, Martial Adept
-- **Background Feature:** Soldier
-- **Background Characteristics:** Soldier
-- **Equipment:** An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a gaming set with which you're proficient, a set of common clothes, and a pouch containing 10 gp
-
 ### Woodsman
 
 ___
 - **Skill Proficiencies:** Any two of Athletics, Animal Handling, Nature, Survival
 - **Tool Proficiencies:** Any two of Cartogprapher's tools, Herbalism Kit, Woodcarver's tools
-- **Feats:** One of Athlete, 
+- **Feats:** One of Athlete, Durable, Healer, Wood Elf Magic
 - **Background Feature:** Outlander
 - **Background Characteristics:** Outlander
 - **Equipment:** A staff, a hunting trap, a trophy from an animal you killed, a set of traveler’s clothes, and a pouch containing 10 gp
@@ -346,19 +355,25 @@ ___
 
 Every character should give some thought to why they're adventuring. Adherence to this Motivation to Adventure will be one of the primary methods of determining XP at the end of every session.
 
-| 1dX | Motivation |
+The following examples are not exhaustive, but instead are intended to give ideas.
+
+
+| 1d8 | Motivation to Adventure |
 | :-: | :--------- |
-|  1  | You have a very large debt to pay off, and you need the money.
-|  2  | Your parents are old, and you need to provide for them.
-|  3  | You have a family to support.
-|  4  | You are intrigued by the secrets of the universe and want to learn more.
-|  5  | You want to travel and see the world.
-|  6  | It's a job. Better than most, actually.
-|  7
+|  1  | Saltmarsh is your home, and you'll do whatever you need to do to ensure it stays safe.
+|  2  | You have a very large debt to pay off, and you need the money.
+|  3  | Your parents are old, and you need to provide for them.
+|  4  | You have a growing family to support.
+|  5  | You are intrigued by the secrets of the universe and want to learn more.
+|  6  | You want to travel and see the world.
+|  7  | Meh, it's a job. Better than most, actually.
+|  8  | You're trying to impress a girl.
 
-### Starting Resources
 
-Roll on this table to determine their starting resources.  A note of ***Debt*** or ***Savings*** indicates that you should roll 1d100, and possibly multiply by the indicator.
+### Lifestyle and Starting Resources
+
+Roll on this table to determine their starting resources.  A note of ***Debt*** or ***Savings*** indicates that you should roll 1d100, and possibly multiply by the indicator.  Daily costs reflect upkeep of housing, costs of food, paying retainers, and other routine expenses.
+
 
 | 1d10 | Lifestyle   | Daily Cost | Housing | Starting Resources |
 |:----:|:---------   |:----------:|:------- |:------------------|
@@ -381,4 +396,79 @@ The above is in addition to any starting equipment the character receives from t
 
 
 ## Local Geography
+
+\page
+
+<div class='wide'>
+  
+## Roster of NPCs
+
+Saltmarsh is home to many unique individuals.  The following table lists many of them.  Because the PCs come from Saltmarsh, they will have at least a passong familiarity with most, or even all of them.
+
+In addition, each player should roll on this table; the results indicate which NPC the characeter knows well.  We'll determine how they know each other during session 0.
+
+
+| d20 | Name | Job | Description | Affiliation (if public) |
+| :-: | :--- | :-- | :---------- | :---
+|  1  | Wellgar Brinehanded | Priest of Procan | Male human | Traditionalist
+|  2  | Manistrad Copperlocks | Politician | Female dwarf | Loyalist
+|  3  | Eliander Fireborn | Politician | Male human | Loyalist
+|  4  | Ingo the Drover | Resident | Male half-elf | &ndash;
+|  5  | Jasker | Blacksmith<br>Worker at *The Dwarven Anvil*<br>Son of Mafera | Male human | Loyalist
+|  6  | Jilar Kanklesten | Head of the Carpenter's Guild | Female halfling | &ndash;
+|  7  | Keledek the Unspoken | Town mage | Male tiefling | Arcanists' Conclave
+|  8  | Kiorna Kester | Tanner<br>Owner of *Kester’s Leather Goods* | Female human | &ndash; 
+|  9  | Ferrin Kastilar | Druid of Obad-hai | Male halfling | Traditionalist
+| 10  | Krag | Gravedigger | Male half-orc | &ndash;
+| 11  | Lankus Kurrid | Owner of the Wicker Goat | Male human | &ndash;
+| 12  | Mafera | Blacksmith<br>Owner of *The Dwarven Anvil* | Female human | Loyalist
+| 13  | Eda Oweland | Politician | Female human | Traditionalist
+| 14  | Gellan Primewater | Politician | Male human | Traditionalist
+| 15  | Hanna Rist | Owner of the *Snapping Line* | Female human | &ndash;
+| 16  | Kreb Shenker | Owner of the *Empty Net* | Male halfling | &ndash;
+| 17  | Anders Solmor | Politician | Male human | Traditionalist
+| 18  | Kraddok Stonehorn | Jailor | Male human | &ndash;
+| 19  | Xendros | Merchant | Female tiefling | Arcanists' Conclave
+| 20  | &ndash; | Roll twice, ignoring additional 20s | &ndash; | &ndash;
+</div>
+
+\page
+
+
+## Alternate XP protocol
+We will be using an alternate protocol for earning XP and gaining levels.
+
+To gain a level, you must spend XP equal to the new level + the new level's tier. (The exception is level 2; that requires a single session.)  Each session, a character will earn 1-5 XP.  A character cannot skip levels, so earning 5 XP in session 1 does not result in being level 3.
+
+In a session, a character gains 1 XP for completing the session, and 1 more for a positive answer to each of the following questions:
+
+##### Individuals
+
+* Did you act according to your Motivation to Adventure?
+* Did you express a unique quality of your class, race, or background, outside of combat?
+
+##### Group
+
+* Did the party's actions make the town of Saltmarsh a safer place?
+* Did the party advance the goal of the current adventure?
+
+### Advancement Table
+
+A character can earn between 1 and 5 XP per session. The number of XP required to earn a level is new level + tier of new level, cumulative. For example, going from level 4 to 5 requires 7 XP beyond the amount required for level 4: 5 (because level 5) + 2 (because tier 2).  The exception is level 2, which only requires 1 XP. No one should be level 1 for more than a single session, because level 1 is hell.
+
+| Level | XP total
+| :---: | :------:
+|   1   |     0
+|   2   |     1
+|   3   |     5
+|   4   |    10
+|   5   |    17
+|   6   |    25 
+|   7   |    34
+|   8   |    44
+|   9   |    55
+|  10   |    67
+|  11   |    81
+|  12   |    96
+
 
