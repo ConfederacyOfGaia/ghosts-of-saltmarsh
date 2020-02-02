@@ -7,7 +7,7 @@ while read f u
     echo "Fetching https:$u into $f"; curl -sS https:$u | \
     sed -e 's,&lt;,<,g' \
         -e 's,&gt;,>,g' \
-        -e 's,<code><pre>,,g' \
+        -e 's,<code><pre[^>]*>,,g' \
         -e 's,</pre></code>,,g' \
     > $f; 
 done
