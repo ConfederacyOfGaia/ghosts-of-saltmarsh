@@ -76,7 +76,7 @@ Above all you are companions who, together, seek to bring safety and prosperity 
 ## General Hints
 
 * You're all residents of Saltmarsh.
-* The core adventures are *investigation* and *interaction* heavy, though the supplemental adventures vary.
+* The core adventures are oriented toward *investigation* and *interaction*.
 * Stealthy skill-monkeys will fare best in the core adventures.
 * Clanking tanks and murder hobos will have a particulatly hard time.
 
@@ -131,12 +131,15 @@ Pick a background that is thematically consistent with Saltmarsh, its environmen
 Because of the limited racial diversity, only a few languages are available to be learned.
 
 * Common
-* Halfing
-* Elvish
-* Dwarvish
-* Orcish
-* Giant
 * Deep Speech
+* Draconic (*Arcanists' Conclave only*)
+* Dwarvish
+* Elvish
+* Giant
+* Halfling
+* Orcish
+* Sylvan (*Folks from the Silverstand only*)
+
 
 ## First Level Feats
 
@@ -144,6 +147,7 @@ First level feats are ok, subject to approval. They should be thematically consi
 
 * Lucky
 * Great Weapon Master
+* Heavy Armor Master
 * Sentinel
 * Sharpshooter
 
@@ -151,8 +155,9 @@ First level feats are ok, subject to approval. They should be thematically consi
 
 When creating your character, ask yourself these questions:
 
-* Why are you an adveturer?
-* What make you leave your normal, mundane life, and what keeps you from going back to it?
+* Why are you an adventurer?
+* What are you hoping to achieve?
+* Why did you leave your normal mundane life, and what keeps you from going back to it?
 * Do you have any regrets?
 
 ## Connections
@@ -216,10 +221,44 @@ In addition, each player should roll on this table; the results indicate which N
 
 ## About Saltmarsh
 
+The town of Saltmarsh sits on a bay that leads to the Azure Sea, and is surrounded to the north, east, and west by rocky hills and forests.  ~~Only the elves of the Silverstand come to Saltmarsh overland; all other travel happens by ship.~~
+
+* Overland visitors from Burle and Seaton
+
+The roughly five thousand residents are predominantly human and halfling, with the dwarven mining contingent of about two hundred workers the largest non-human faction in town. Elves are rare but draw no special notice, since the Silverstand hosts a wood elf enclave.
+
+Residents primarily make their living as fishers, traders, importers, and merchants.  Importers account for a significant amount of inbound ships, and the docks are the busiest and most important part of the town.  There are a small number of farms immediately surrounding the town, but the land gives way to rocky hills so quickly that locally-grown produce and locally-raised animals are few in number, and fetch steep prices.
+
+* Increase the number of farms, but still rely heavily on seafood and imports
+
+
 ## Religion
+
+**Procan**, god of the sea (N), attracts the lion's share of worship in Saltmarsh. Every sailor and seaman seeks his blessing before heading out, and the only temple in town is dedicated to him.  Idols to **Hextor** (god of war, LE) and **Obad-hai** (god of nature, N) are scattered throughout the town, every gambler calls upon **Rudd** (goddess of luck, CN), and all invoke **Fharlanghn** (god of travel, N) before every journey.  The Arcanists' Conclave brought worship of **Boccob** (god of magic, N), though he is unknown otherwise.
 
 
 ## Local Geography
+
+### Common Knowledge
+
+* Seaton
+* Dreadwood
+* Burle
+* Silverstand
+* Drowned Forest
+* Hool Marshes
+* Dunwater River
+
+### Unknown
+
+* Tower of Zenopus
+* Dwarven Mine
+* Haunted House
+* Abbey Island
+
+
+
+
 
 
 
