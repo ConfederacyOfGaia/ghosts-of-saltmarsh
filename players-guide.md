@@ -73,7 +73,7 @@ Above all you are companions who, together, seek to bring safety and prosperity 
 
 # Character Creation
 
-## General Hints
+## General Guidelines
 
 * You're all residents of Saltmarsh.
 * The core adventures are oriented toward *investigation* and *interaction*.
@@ -90,7 +90,7 @@ The following races are common in Saltmarsh, and can be used as PC races.
 
 ##### Human
 
-Humans are the most common race in Saltmarsh.  Because everyone receives a free feat at first level, variant humans are unknown.
+Humans are the most common race in Saltmarsh.  Variant humans are ok, even though everyone receives a free feat at first level.
 
 ##### Halfling
 
@@ -185,37 +185,8 @@ Roll on this table to determine their starting resources.  A note of ***Debt*** 
 
 The above is in addition to any starting equipment the character receives from their background or class.
 
-## Roster of NPCs
-
-Saltmarsh is home to many unique individuals.  The following table lists many of them.  Because the PCs come from Saltmarsh, they will have at least a passing familiarity with most, or possibly all, of them.
-
-In addition, each player should roll on this table; the results indicate which NPC the characeter knows well.
-
-
-| d20 | Name | Job | Description | Affiliation (if public) |
-| :-: | :--- | :-- | :---------- | :---
-|  1  | Wellgar Brinehanded | Priest of Procan | Male human | Traditionalist
-|  2  | Manistrad Copperlocks | Politician | Female dwarf | Loyalist
-|  3  | Eliander Fireborn | Politician | Male human | Loyalist
-|  4  | Ingo the Drover | Resident | Male half-elf | &ndash;
-|  5  | Jasker | Blacksmith<br>Worker at *The Dwarven Anvil*<br>Son of Mafera | Male human | Loyalist
-|  6  | Jilar Kanklesten | Head of the Carpenter's Guild | Female halfling | &ndash;
-|  7  | Keledek the Unspoken | Town mage | Male tiefling | Arcanists' Conclave
-|  8  | Kiorna Kester | Tanner<br>Owner of *Kester’s Leather Goods* | Female human | &ndash; 
-|  9  | Ferrin Kastilar | Druid of Obad-hai | Male halfling | Traditionalist
-| 10  | Krag | Gravedigger | Male half-orc | &ndash;
-| 11  | Lankus Kurrid | Owner of the Wicker Goat | Male human | &ndash;
-| 12  | Mafera | Blacksmith<br>Owner of *The Dwarven Anvil* | Female human | Loyalist
-| 13  | Eda Oweland | Politician | Female halfling | Traditionalist
-| 14  | Gellan Primewater | Politician | Male human | Traditionalist
-| 15  | Hanna Rist | Owner of the *Snapping Line* | Female human | &ndash;
-| 16  | Kreb Shenker | Owner of the *Empty Net* | Male halfling | &ndash;
-| 17  | Anders Solmor | Politician | Male human | Traditionalist
-| 18  | Kraddok Stonehorn | Jailor | Male human | &ndash;
-| 19  | Xendros | Merchant | Female tiefling | Arcanists' Conclave
-| 20  | &ndash; | Roll twice, ignoring additional 20s | &ndash; | &ndash;
-
 </div>
+
 
 \page
 
@@ -260,5 +231,39 @@ Residents primarily make their living as fishers, traders, importers, and mercha
 
 
 
+\page
 
+<div class='wide'>
+
+## Roster of NPCs
+
+Saltmarsh is home to many unique individuals.  The following table lists many of them.  Because the PCs come from Saltmarsh, they will have at least a passing familiarity with most, or possibly all, of them.
+
+In addition, each player should roll on this table; the results indicate which NPC the characeter knows well.
+
+
+| d20 | Name | Job | Description | Affiliation (if public) |
+| :-: | :--- | :-- | :---------- | :---
+|  1  | Wellgar Brinehanded | Priest of Procan | Male human | Traditionalist
+|  2  | Manistrad Copperlocks | Politician | Female dwarf | Loyalist
+|  3  | Eliander Fireborn | Politician | Male human | Loyalist
+|  4  | Ingo the Drover | Resident | Male half-elf | &ndash;
+|  5  | Jasker | Blacksmith<br>Worker at *The Dwarven Anvil*<br>Son of Mafera | Male human | Loyalist
+|  6  | Jilar Kanklesten | Head of the Carpenter's Guild | Female halfling | &ndash;
+|  7  | Keledek the Unspoken | Town mage | Male tiefling | Arcanists' Conclave
+|  8  | Kiorna Kester | Tanner<br>Owner of *Kester’s Leather Goods* | Female human | &ndash; 
+|  9  | Ferrin Kastilar | Druid of Obad-hai | Male halfling | Traditionalist
+| 10  | Krag | Gravedigger | Male half-orc | &ndash;
+| 11  | Lankus Kurrid | Owner of the Wicker Goat | Male human | &ndash;
+| 12  | Mafera | Blacksmith<br>Owner of *The Dwarven Anvil* | Female human | Loyalist
+| 13  | Eda Oweland | Politician | Female halfling | Traditionalist
+| 14  | Gellan Primewater | Politician | Male human | Traditionalist
+| 15  | Hanna Rist | Owner of the *Snapping Line* | Female human | &ndash;
+| 16  | Kreb Shenker | Owner of the *Empty Net* | Male halfling | &ndash;
+| 17  | Anders Solmor | Politician | Male human | Traditionalist
+| 18  | Kraddok Stonehorn | Jailor | Male human | &ndash;
+| 19  | Xendros | Merchant | Female tiefling | Arcanists' Conclave
+| 20  | &ndash; | Roll twice, ignoring additional 20s | &ndash; | &ndash;
+
+</div>
 
