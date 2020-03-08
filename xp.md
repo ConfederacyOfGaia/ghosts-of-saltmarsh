@@ -12,7 +12,7 @@ Edit: https://homebrewery.naturalcrit.com/edit/GKYSEIU_s
 
 # Experimental Saltmarsh XP Protocol
 
-Tracking XP in the traditional sense is error prone and fiddly, and really only rewards killing monsters.  Milestone XP is an improvement, but it assumes that you are running a linear campaign with well-defined story beats, and is not friendly to new characters or players that cannot attend every session.  The below alternate XP system attempts to address these issues by presenting a simpified point-based system that rewards players for good play, big-picture thinking, and adhering to their characters' beliefs.
+Tracking XP in the traditional sense is error-prone and fiddly, and really only rewards killing monsters.  Milestone XP is an improvement, but it assumes that you are running a linear campaign with well-defined story beats, and is not friendly to new characters or players that cannot attend every session.  The below alternate XP system attempts to address these issues by presenting a simplified point-based system that rewards players for good play, big-picture thinking, and adhering to their characters' beliefs.
 
 ## Assumptions
 
@@ -40,7 +40,7 @@ Each character can potentially earn all of these every session.
 
 ### Group
 
-Everyone present at the sesaion earns these points if the group as a whole achieves the goal during the current session.
+Everyone present at the session earns these points if the group as a whole achieves the goal during the current session.
 
 * 1 XP for improving the safety or economy of Saltmarsh and/or the immediate area.
 * 1 XP for completing one of the core adventures from Ghosts of Saltmarsh.
@@ -64,7 +64,7 @@ You can only level up once per session, and it can be done after any long rest (
 
 ### Natural 20
 
-You can spend 1 XP to automatically roll a natural 20 on any d20 roll.  You can do this after die is rolled but before you learn if it succeeds.  The roll need not be your own.
+You can spend 1 XP to automatically roll a natural 20 on any d20 roll.  You can do this after the die is rolled but before you learn if it succeeds.  The roll need not be your own.
 
 ### ASIs and Feats
 
