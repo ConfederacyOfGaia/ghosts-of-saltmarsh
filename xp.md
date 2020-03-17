@@ -79,7 +79,7 @@ There should be a narrative build up to the increase.
 
 ### Magic Items
 
-You can arrange for Xendros to procure a magic item for you.  The costs are 8 XP for a Very Rare item, 6 XP for a Rare item, and 4 XP for an Uncommon item.  If the item is a consumable (potion or scroll), the cost is reduced by half. Only non-unique items are available this way.
+You can arrange for Xendros to procure a magic item for you.  The costs are 4 XP for an Uncommon item, 7 XP for a Rare item, and 10 XP for a Very Rare item.  If the item is a consumable (potion or scroll), the cost is reduced by half. Only non-unique items are available this way.
 
 Such a special order must be arranged with Xendros in person, and takes 1d4 weeks to arrive.
 
