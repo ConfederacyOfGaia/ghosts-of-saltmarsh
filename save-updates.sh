@@ -1,6 +1,6 @@
 #!/bin/sh
 
-grep Share `ls *.md | egrep -v README\|TODO` | \
+grep "Share:" `ls *.md | egrep -v README\|TODO` | \
 awk -F: '{ print $1, $4 }' | sed -e 's/share/source/' | \
 while read f u
   do
